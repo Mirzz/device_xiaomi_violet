@@ -63,6 +63,7 @@ TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_HEADERS := kernel/xiaomi/sm6150
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sm6150
 BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
+SELINUX_IGNORE_NEVERALLOWS := true
 
 # Platform
 TARGET_BOARD_PLATFORM := sm6150

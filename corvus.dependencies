@@ -1,0 +1,20 @@
+[
+  {
+    "repository" : "CorvusRom-Devices/device_xiaomi_violet",
+    "target_path": "device/xiaomi/violet",
+    "branch"     : "11",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "karthik558/MsM-4.14-SmoothAF",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch"     : "ten",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "PixysOS-Devices/vendor_xiaomi_violet",
+    "target_path": "vendor/xiaomi",
+    "branch"     : "eleven",
+    "remote"     : "gitlab"
+  }
+]
